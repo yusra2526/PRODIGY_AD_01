@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="heading">Calculator</string>
+    <string name="opr">opr</string>
+    <string name="num">num</string>
+    <string name="equals">=</string>
+</resources>
